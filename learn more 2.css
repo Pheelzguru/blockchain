@@ -1,0 +1,17 @@
+#instructor{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.9)),url(../work/image/i2.jpg);
+    background-size: cover;
+    height: 30pc;
+    color: white;
+}
+
+#link{
+    width: 200px; 
+    padding: 12px;
+    font-size: small;
+}
+
+#text{
+    text-shadow: 1px 1px 7px black;
+    font-size: 15px;
+}

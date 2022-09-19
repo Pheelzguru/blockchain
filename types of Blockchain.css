@@ -1,0 +1,27 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)),url(../work/image/pho.webp);
+    background-position: center;
+    background-size: cover;
+    text-shadow: 1px 1px 10px black;
+    color: white;
+}
+
+#text{
+    text-shadow: 1px 1px 7px black;
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    line-height: 40px;
+}
+
+#title{
+    text-align: center;
+}
+
+#title1{
+    text-align: center;
+    font-size: 80px;
+    font-family:fantasy;
+    text-transform: uppercase;
+    text-decoration: wavy;
+}

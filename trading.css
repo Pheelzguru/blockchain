@@ -1,0 +1,61 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.4)), url(image/trading.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+#block{
+    color: white;
+    text-shadow: 1px 1px 10px rgb(226, 192, 40);
+    font-weight: bolder;
+    padding-left: 50px;
+    padding-top: 40px;
+    font-size: 30px;
+    justify-content: center;
+}
+.navbar-nav{
+    padding-left:5pc;
+}
+#but{
+    background-color: gold;
+    border-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+#instructors{
+    color: white;
+}
+#head{
+    color: black;
+}
+#pad{
+    padding-left: 50px;
+}
+
+#shape{
+    width: 250px;
+    height: 150px;
+    border-radius: 50px;
+    
+}
+
+#hh{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 1px 1px 10px black;
+    font-weight: 600;
+}
+
+#hhh{
+    color: white;
+    font-family: cursive;
+    text-shadow: 1px 1px 10px black;
+    font-weight: 1000;
+}
+
+#pp{
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 5px grey;
+}

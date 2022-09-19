@@ -1,0 +1,19 @@
+
+
+body{
+    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.7)),url(../work/image/nft.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#text{
+    text-shadow: 1px 1px 7px black;
+    font-size: 15px;
+    color: white;
+    text-align: justify;
+    line-height: 40px;
+    
+}
+#pad{
+    color: black;
+}

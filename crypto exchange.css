@@ -1,0 +1,30 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.9)),url(../work/image/crypto.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+#text{
+    color: white;
+    font-size: 20px;
+    text-shadow: 1px 1px 5px black;
+    text-align: center;
+    font-family: cursive;
+}
+
+#head{
+    
+    color: orange;
+    text-shadow: 1px 1px 5px white;
+    font-family: sans-serif;
+}
+
+#text1{
+    color: orange;
+    font-size: 22px;x
+    text-shadow: 1px 1px 5px grey;
+    text-align: center;
+    font-family: cursive;
+    letter-spacing::after;
+    
+}

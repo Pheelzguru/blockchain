@@ -1,0 +1,13 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)),url(../work/image/serv.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#text{
+    text-shadow: 1px 1px 7px black;
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    line-height: 40px;
+}

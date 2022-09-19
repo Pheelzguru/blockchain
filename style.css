@@ -1,0 +1,117 @@
+body{
+    background-image: url(../work/image/bb.jpg);
+    background-size: cover;
+}
+
+#logo{
+    height: 50px;
+    width: 50px;
+    padding: 1px;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: poppins, sans-serif;
+color: #222;
+}
+.navbar{
+padding: 0.5rem;
+}
+
+.navbar-nav li{
+    padding-right: 1px;
+}
+.nav-item{
+    padding-left: 50px;
+}
+.navbar-link{
+    font-size: 1.1cm;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+}
+.carousel-caption{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.carousel-caption h1{
+    font-size: 500%;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 1px 1px 15px #000;
+}
+#car{
+    font-size: 200%;
+   font-weight: 500;
+   color: #fff;
+    text-shadow: 1px 1px 5px #706328;
+    padding-bottom: 1rem;
+}
+.button{
+    background-color: #e0b90a;
+    border: 1px solid #ffffff;
+    border-radius: 7px;
+    padding: 10px;
+    color: white;
+    text-shadow: 1px 1px 0px #000;
+} 
+
+#trade{
+    background-color:rgba(209, 208, 202, 0.938);
+    margin-top: 3px;
+    outline: 1px solid white;
+    color: black;
+    justify-content: center;
+}
+
+#click{
+      background-color: #e0b90a;
+        border: 1px solid #ffffff;
+        border-radius: 7px;
+        padding: 10px;
+        color: white;
+        text-shadow: 1px 1px 0px #000;
+        margin-top: 15px;
+        margin-left: 35px;
+}
+
+.fas{
+    color: #e0b90a;
+    
+}
+
+#edit{
+    width: 100%;
+    height: 40pc;
+}
+
+.card-img-top{
+    height: 18pc;
+    width: 10px;
+    border-radius: 20px;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.card-title{
+    color: navy;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#pix{
+    margin-left: 50px;
+    width: 500px;
+    height: max-content;
+    margin-top: 30px;
+    
+}
+
+#foot{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9));
+    color: white;
+}

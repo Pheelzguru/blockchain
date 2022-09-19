@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)),url(../work/image/p.jpeg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+#text{
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 1px 7px 10px black;
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: sans-serif;
+}

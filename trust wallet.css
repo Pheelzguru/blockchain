@@ -1,0 +1,34 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.9)),url(../work/image/serv.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+#text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-shadow: 1px 1px 10px black;
+    color: white;
+    animation:abcd 5s;
+    text-align: justify;
+   
+   }
+   
+   @keyframes abcd{
+      0%{margin-left: 100px}
+      0%{margin-left: 100px}
+      700%{margin-right: 100px}
+      70%{margin-right: 100px}
+      0%{margin-left: 100px}
+      0%{margin-left: 100px}
+      70%{margin-right: 100px}
+      
+   }
+
+   #head{
+    font-family: sans-serif;
+    text-shadow: 1px 1px 5px white;
+    font-size: 50px;
+    font-weight: bold;
+   }
